@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jeeyeon</h1>
-<h3 align="center">A passionate backend developer from South Korea India</h3>
+<h1 align="left">About me</h1>
+<h3 align="left">A passionate backend developer from South Korea</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeeyeon-lee&label=Profile%20views&color=0e75b6&style=flat" alt="jeeyeon-lee" /> </p>
 
